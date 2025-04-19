@@ -1,5 +1,5 @@
 # Installer
-#### Every thing happns when you run the installer
+#### The Every thing that happns when you run the TaskbarBuddy installer
 
 ## SignTaskbarBuddy.ps1
 #### it will sign taskbarbuddy so the app will show on your taskbar and dont get behind it when intract with the taskbar or press windows button
