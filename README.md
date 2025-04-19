@@ -10,4 +10,4 @@
 
 ## The Installer i use inno setup
 
-##The Full Setup File is .iss
+## The Full Setup File is .iss
